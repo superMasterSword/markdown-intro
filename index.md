@@ -9,3 +9,9 @@ function exampleFunction(param1) {
     print('I made an example');
 }
 ```
+
+- [x] Complete assignment 1
+- [ ] Complete first day on github
+- [ ] Complete first week on github
+- [ ] Complete Quiz 1
+- [ ] Complete Exercise
